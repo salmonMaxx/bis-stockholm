@@ -1,8 +1,3 @@
-'''
-This works!! Wow.
-'''
-
-
 from EPCPyYes.core.v1_2.CBV import business_steps
 from EPCPyYes.core.v1_2 import helpers
 
